@@ -49,6 +49,7 @@ The core feature of this project is the signal processing algorithm implemented 
 * Input the desired safety limit in the `PPM Threshold` control box.
 * Click the **Run** button.
 * Test the system by introducing a safe amount of gas (e.g., from an unlit lighter) near the MQ-2 sensor to observe the PPM spike and subsequent relay activation.
+<img width="928" height="522" alt="image" src="https://github.com/user-attachments/assets/c3c03536-e63b-4aab-a652-76f247f11f31" />
 
 ## Author
 * **phuongproduc**
@@ -56,3 +57,6 @@ The core feature of this project is the signal processing algorithm implemented 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
