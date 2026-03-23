@@ -50,6 +50,8 @@ The core feature of this project is the signal processing algorithm implemented 
 * Click the **Run** button.
 * Test the system by introducing a safe amount of gas (e.g., from an unlit lighter) near the MQ-2 sensor to observe the PPM spike and subsequent relay activation.
 <img width="928" height="522" alt="image" src="https://github.com/user-attachments/assets/c3c03536-e63b-4aab-a652-76f247f11f31" />
+<img width="1519" height="670" alt="image" src="https://github.com/user-attachments/assets/05284b12-3603-4557-805f-40b9c7607d7a" />
+
 
 ## Author
 * **phuongproduc**
